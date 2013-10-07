@@ -5,12 +5,13 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace WpfApplication3
+namespace WpfApplication2
 {
     /// <summary>
-    /// Lógica de interacción para App.xaml
+    /// Interaction logic for App.xaml
     /// </summary>
     public partial class App : Application
     {
+
     }
 }
